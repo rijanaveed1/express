@@ -1,8 +1,4 @@
-// // import express from 'express'
-
-// console.log("hello world")
-
-const express = require('express')
+import express from 'express'
 const app = express()
 const port = 3000
 
